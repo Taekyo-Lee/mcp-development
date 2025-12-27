@@ -291,3 +291,4 @@ MCP error codes:
 - `-32601` - Method not found
 - `-32602` - Invalid params
 - `-32603` - Internal error
+
